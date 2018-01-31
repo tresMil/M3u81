@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:0,ECUADOR 7
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+#EXTINF:0,ECOTEL TV HD
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+#EXTINF:0,TELEAMAZONAS
+https://secure-playlist.livestream.com/streams/1359588_4428723_lsivlz1wav4jf56guwl_1/media/1359588_4428723_lsivlz1wav4jf56guwl_1@446000p.m3u8?dw=14400&token=1517006814_cf72c05c33ec83044147bb4664e4a1fc2e1fba55&ts=1516831200
+#EXTINF:0,ECUADOR UCSG
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0,CANAL 10 ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,CANAL 10P
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,VITO TVO
+https://player-api.new.livestream.com/accounts/8069167/events/8027445/broadcasts/169222645.secure.m3u8?dw=14400&hdnea=st%3D1516835746~exp%3D1516837546~acl%3D%2Fi%2F8069167_8027445_lsingsgbpsx5lpg4tht_1%40407977%2F%2A~hmac%3De3a77202b7f35eaa3eb44685de06f8187247c203e8c58170568ef2b0c1fc2eb0
+#EXTINF:0,OROMAR
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0,RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+#EXTINF:0,CANELA TV
+http://servicioamerica.com:1935/8200/8200/chunklist.m3u8
+#EXTINF:0,CANELA TV1
+http://servicioamerica.com:1935/8200/8200/chunklist_w1403035025.m3u8
+#EXTINF:-1,TLNOVELAS
+http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8
+#EXTINF:-1,TLNOVELAS OPC
+http://servicioamerica.com:1935/8200/8200/chunklist_w1403035025.m3u8
